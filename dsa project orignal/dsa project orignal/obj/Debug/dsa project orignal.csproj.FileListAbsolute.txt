@@ -1,0 +1,5 @@
+c:\users\syed arham zahid\documents\visual studio 2013\Projects\dsa project orignal\dsa project orignal\bin\Debug\dsa project orignal.exe.config
+c:\users\syed arham zahid\documents\visual studio 2013\Projects\dsa project orignal\dsa project orignal\bin\Debug\dsa project orignal.exe
+c:\users\syed arham zahid\documents\visual studio 2013\Projects\dsa project orignal\dsa project orignal\bin\Debug\dsa project orignal.pdb
+c:\users\syed arham zahid\documents\visual studio 2013\Projects\dsa project orignal\dsa project orignal\obj\Debug\dsa project orignal.exe
+c:\users\syed arham zahid\documents\visual studio 2013\Projects\dsa project orignal\dsa project orignal\obj\Debug\dsa project orignal.pdb
